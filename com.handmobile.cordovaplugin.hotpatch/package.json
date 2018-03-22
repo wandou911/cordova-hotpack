@@ -1,0 +1,35 @@
+{
+  "name": "hotpacth",
+  "version": "2.0.0",
+  "description": "hand cordova hot patch plugin",
+  "cordova": {
+    "id": "com.handmobile.cordovaplugin.hotpatch",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jiangtiteng/cordova-plugin-baidupush.git"
+  },
+  "keywords": [
+    "cordova",
+    "hotpatch",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.1.0"
+    }
+  ],
+  "author": "wandou",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/jiangtiteng/cordova-plugin-baidupush/issues"
+  },
+  "homepage": "https://github.com/jiangtiteng/cordova-plugin-baidupush#readme"
+}

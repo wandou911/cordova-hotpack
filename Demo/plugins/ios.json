@@ -1,0 +1,18 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.handmobile.cordovaplugin.hotpatch": {
+            "PACKAGE_NAME": "com.wandou.testCordova"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.wandou.testCordova"
+        }
+    },
+    "dependent_plugins": {}
+}
