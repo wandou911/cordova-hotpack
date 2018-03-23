@@ -1,4 +1,5 @@
 # cordova-hotpack
+
 Cordova自定义插件实现热更新
 
 热更流程图：
@@ -27,11 +28,13 @@ cordova create cordovaDemo com.catchzeng.testCordova testCordova
 cd testCordovaProject/
 cordova platform add ios
 ```
-## 1.4 添加成功后可在项目的platforms文件夹中看到ios文件夹,进入后就可以看到ios工程了
+## 1.4 添加成功
+
+在项目的platforms文件夹中看到ios文件夹,进入后就可以看到ios工程了
 
 ![project](https://upload-images.jianshu.io/upload_images/943491-64f0524457a9c269.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/622)
 
-## 1.5 xcode打开项目 运行结果
+## 1.5 xcode运行
 
 ![result](https://upload-images.jianshu.io/upload_images/943491-fe696d1b2a6e8636.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/627)
 
